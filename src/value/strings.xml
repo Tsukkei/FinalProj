@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PersonalBackground
+    </string>
+    <string name="gender_prompt">Select Gender</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="relationship_options">
+        <item>(Choose:)</item>
+        <item>Mother</item>
+        <item>Father</item>
+        <item>Guardian</item>
+    </string-array>
+    <string name="relationship_prompt">Select Relationship</string>
+
+</resources>
