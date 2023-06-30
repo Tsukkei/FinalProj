@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PersonalBackground" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+
+        <!--        &lt;!&ndash; Set the action bar color &ndash;&gt;-->
+        <!--        <item name="android:background">@color/pastel_purple</item>-->
+        <!--        <item name="android:textColorPrimary">@color/white</item>-->
+    </style>
+
+
+    <style name="Theme.PersonalBackground" parent="Base.Theme.PersonalBackground" />
+</resources>
